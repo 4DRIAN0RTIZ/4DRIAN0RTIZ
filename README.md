@@ -99,8 +99,11 @@ Siguiendo los pasos de mi actor favorito... estoy *en busca de la felicidad*
 
 <div align='center'>
 
-	## El sacrificio de hoy es el exito de mañana...✨
+~~~
+## El sacrificio de hoy es el exito de mañana...✨
+~~~
 
+	
 </div>
 <br>
 <br>

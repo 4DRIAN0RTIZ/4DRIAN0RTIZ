@@ -8,10 +8,12 @@
 
 <br>
 
-- Un apasionado de aprender
+- Amo aprender
 - Autodidacta
 
-Siguiendo los pasos de mi actor favorito... estoy *en busca de la felicidad*
+Siguiendo los pasos de mi actor favorito, estoy... 
+
+> *en busca de la felicidad*
 
 <br>
 
@@ -21,13 +23,6 @@ Siguiendo los pasos de mi actor favorito... estoy *en busca de la felicidad*
 <br>
 
 <p align="center">
-
-- **Lenguajes**:
-    
-    ![PHP](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<br>   
     
 - **Desarrollo Front-End**:
 
@@ -65,7 +60,9 @@ Siguiendo los pasos de mi actor favorito... estoy *en busca de la felicidad*
 
 
 <div align='center'>
+	
 > El sacrificio de hoy es el exito de mañana...✨
+	
 </div>
 <br>
 <br>

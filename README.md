@@ -1,13 +1,15 @@
-<h1 align="center">Hola 👋, soy Adrian Ortiz</h1>
+<h1 align="center">Hola, soy Adrian Ortiz 👋</h1>
 <h3 align="center">Un desarrollador web con ganas de aprender.</h3>
 
 - 👨‍💻 Mi pedacito de internet está en [https://4drian0rtiz.github.io](https://4drian0rtiz.github.io)
 
-- 📝 Eventualmente escritor en [https://4driand0cs.netlify.app/blog/](https://4driand0cs.netlify.app/blog/)
+- 📝 Eventualmente escritor en [La cueva del NeanderTech](https://neandertech.netlify.app/blog/)
 
 - 📫 Contacto **arguortiz@icloud.com**
 
 - ⚡ Hecho gracioso **pienso que soy divertido.**
+
+- 🐧 Amante de linux y el Open Source.
 
 <h3 align="left">Quizá te interese:</h3>
 <p align="left">

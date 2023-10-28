@@ -3,7 +3,7 @@
 
 - 👨‍💻 Mi pedacito de internet está en [https://4drian0rtiz.github.io](https://4drian0rtiz.github.io)
 
-- 📝 Eventualmente escritor en [La cueva del NeanderTech](https://neandertech.netlify.app/blog/)
+- 📝 Eventualmente escritor en [La cueva del NeanderTech](https://cuevaneander.tech/blog/)
 
 - 📫 Contacto **arguortiz@icloud.com**
 

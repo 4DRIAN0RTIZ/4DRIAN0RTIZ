@@ -1,19 +1,23 @@
 <h1 align="center">👋 Hola, soy Adrian Ortiz</h1>
 <h3 align="center">Desarrollador web apasionado por el Open Source y el aprendizaje continuo.</h3>
 
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Developer GIF" width="600"/>
-</p>
-
----
-
-### 🚀 Sobre mí
-
-- 🌐 Mi espacio en la web: [https://4drian0rtiz.github.io](https://4drian0rtiz.github.io)  
-- 📝 Colaboro ocasionalmente en mi blog: [La Cueva del NeanderTech](https://neandertech.netlify.app/blog)  
-- 📫 Contacto: **arguortiz@icloud.com**  
-- ⚡ Curiosidad: Me considero **divertido**.  
-- 🐧 Fanático de Linux y el mundo Open Source.  
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 Sobre mí</h3>
+      <ul>
+        <li>🌐 Mi espacio en la web: <a href="https://4drian0rtiz.github.io">https://4drian0rtiz.github.io</a></li>
+        <li>📝 Escribo en mi blog: <a href="https://neandertech.netlify.app/blog">La Cueva del NeanderTech</a></li>
+        <li>📫 Contacto: <b>arguortiz@icloud.com</b></li>
+        <li>⚡ Curiosidad: Me considero <b>divertido</b>.</li>
+        <li>🐧 Fanático de Linux y el mundo Open Source.</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Developer GIF" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

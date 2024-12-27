@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Adrian Ortiz</h1>
 <h3 align="center">Desarrollador web apasionado por el Open Source y el aprendizaje continuo.</h3>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
       <h3>🚀 Sobre mí</h3>
@@ -49,10 +49,19 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4drian0rtiz&show_icons=true&theme=tokyonight" alt="Estadísticas de Adrian Ortiz" />
+    <img src="https://github-readme-stats.vercel.app/api?username=4DRIAN0RTIZ&theme=merko&show_icons=true&hide_border=false&count_private=true" 
+          alt="4DRIAN0RTIZ's Stats" 
+          style="max-width: 100%; height: auto; margin: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4DRIAN0RTIZ&theme=merko&show_icons=true&hide_border=false&layout=compact" 
+          alt="4DRIAN0RTIZ's Top Languages" 
+          style="max-width: 100%; height: auto; margin: auto;">
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4DRIAN0RTIZ&custom_title=4DRIAN0RTIZ%20Profile&hide_border=true&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=4DRIAN0RTIZ&custom_title=4DRIAN0RTIZ%20Profile&hide_border=true&theme=merko" alt="Ashutosh's github activity graph" style="max-width: 100%; height: auto; margin: auto;">
+  </a>
+</p>
 
 ---
 

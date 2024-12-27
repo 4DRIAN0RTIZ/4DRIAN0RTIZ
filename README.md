@@ -52,6 +52,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=4drian0rtiz&show_icons=true&theme=tokyonight" alt="Estadísticas de Adrian Ortiz" />
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4DRIAN0RTIZ&custom_title=4DRIAN0RTIZ%20Profile&hide_border=true&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ### 🌐 Encuéntrame en

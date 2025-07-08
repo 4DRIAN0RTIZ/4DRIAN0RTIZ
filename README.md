@@ -71,3 +71,33 @@
   <a href="https://codepen.io/4drian0rtiz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="40" height="40"/></a>
   <a href="https://www.youtube.com/channel/UCA-bVAv5yTJcgDdzcXoAz9Q" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/></a>
 </p>
+
+<h3>🏆 My Certifications</h3>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
+  <a href="https://github.com/user-attachments/assets/1c6efbe3-4c0a-4e49-b293-f0964e35bdd1" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1c6efbe3-4c0a-4e49-b293-f0964e35bdd1" alt="Introduction to Cybersecurity"
+         style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/f92e4658-40a6-4f8b-ae39-ea81b72af12a" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f92e4658-40a6-4f8b-ae39-ea81b72af12a" alt="ICP Developer Z3"
+         style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/3c6ba9f1-82dc-4cff-be49-aa409e1005e3" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3c6ba9f1-82dc-4cff-be49-aa409e1005e3" alt="ICP Developer ICP México"
+         style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/784121ef-8605-450a-adeb-6f9b09055f6f" target="_blank">
+    <img src="https://github.com/user-attachments/assets/784121ef-8605-450a-adeb-6f9b09055f6f" alt="Cybersecurity Essentials"
+         style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/36a4478e-a00e-4d04-a1e7-ba346894da5e" target="_blank">
+    <img src="https://github.com/user-attachments/assets/36a4478e-a00e-4d04-a1e7-ba346894da5e" alt="Curso Profesional de JavaScript"
+         style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/12afc83f-4f20-4c62-ae57-e31b7755883d" target="_blank">
+    <img src="https://github.com/user-attachments/assets/12afc83f-4f20-4c62-ae57-e31b7755883d" alt="Clase de Introducción a R"
+         style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+</div>
+

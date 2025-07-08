@@ -1,16 +1,16 @@
-<h1 align="center">👋 Hola, soy Adrian Ortiz</h1>
-<h3 align="center">Desarrollador web apasionado por el Open Source y el aprendizaje continuo.</h3>
+<h1 align="center">👋 Hi, I'm Adrian Ortiz</h1>
+<h3 align="center">Web developer passionate about Open Source and continuous learning.</h3>
 
 <table align="center">
   <tr>
     <td width="50%">
-      <h3>🚀 Sobre mí</h3>
+      <h3>🚀 About me</h3>
       <ul>
-        <li>🌐 Mi espacio en la web: <a href="https://4drian0rtiz.github.io">https://4drian0rtiz.github.io</a></li>
-        <li>📝 Escribo en mi blog: <a href="https://neandertech.netlify.app/blog">La Cueva del NeanderTech</a></li>
-        <li>📫 Contacto: <b>arguortiz@icloud.com</b></li>
-        <li>⚡ Curiosidad: Me considero <b>divertido</b>.</li>
-        <li>🐧 Fanático de Linux y el mundo Open Source.</li>
+        <li>🌐 My web space: <a href="https://4drian0rtiz.github.io">https://4drian0rtiz.github.io</a></li>
+        <li>📝 I write on my blog: <a href="https://neandertech.netlify.app/blog">The NeanderTech Cave</a></li>
+        <li>📫 Contact: <b>arguortiz@icloud.com</b></li>
+        <li>⚡ Fun fact: I consider myself <b>funny</b>.</li>
+        <li>🐧 Linux and Open Source enthusiast.</li>
       </ul>
     </td>
     <td width="50%" align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-### 🌟 Lenguajes y herramientas
+### 🌟 Languages and tools
 
 <p align="center">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 Estadísticas
+### 📊 Statistics
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=4DRIAN0RTIZ&theme=merko&show_icons=true&hide_border=false&count_private=true" 
@@ -65,7 +65,7 @@
 
 ---
 
-### 🌐 Encuéntrame en
+### 🌐 Find me on
 
 <p align="center">
   <a href="https://codepen.io/4drian0rtiz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="40" height="40"/></a>

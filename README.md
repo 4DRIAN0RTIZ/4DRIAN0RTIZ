@@ -85,10 +85,6 @@
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
-  <a href="https://github.com/user-attachments/assets/1c6efbe3-4c0a-4e49-b293-f0964e35bdd1" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1c6efbe3-4c0a-4e49-b293-f0964e35bdd1" alt="Introduction to Cybersecurity"
-         style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  </a>
     <a href="https://github.com/user-attachments/assets/1c6efbe3-4c0a-4e49-b293-f0964e35bdd1" target="_blank">
     <img src="https://github.com/user-attachments/assets/1c6efbe3-4c0a-4e49-b293-f0964e35bdd1" alt="Introduction to Cybersecurity"
          style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />

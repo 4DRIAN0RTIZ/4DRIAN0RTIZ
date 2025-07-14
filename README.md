@@ -72,10 +72,24 @@
   <a href="https://www.youtube.com/channel/UCA-bVAv5yTJcgDdzcXoAz9Q" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/></a>
 </p>
 
-<h3>🏆 My Certifications</h3>
+<h3>🏆 Showcase</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
+
+<a href="https://www.credly.com/badges/14c5a6f6-1b44-4d5c-a696-2a7c94335ae8/public_url">
+  <img src="https://github.com/user-attachments/assets/8670f062-81d5-44d5-b426-6ecbecfb43a7" width="150" alt="Ver mi insignia en Credly"/>
+</a>
+
+<a href="https://www.credly.com/badges/72bfe096-a5ac-4749-a5ac-f61e95a99df9/public_url">
+  <img src="https://github.com/user-attachments/assets/f8540165-bcae-4f32-9457-63e9d34c1abb" width="150" alt="Ver mi insignia en Credly"/>
+</a>
+</div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
   <a href="https://github.com/user-attachments/assets/1c6efbe3-4c0a-4e49-b293-f0964e35bdd1" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1c6efbe3-4c0a-4e49-b293-f0964e35bdd1" alt="Introduction to Cybersecurity"
+         style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+    <a href="https://github.com/user-attachments/assets/1c6efbe3-4c0a-4e49-b293-f0964e35bdd1" target="_blank">
     <img src="https://github.com/user-attachments/assets/1c6efbe3-4c0a-4e49-b293-f0964e35bdd1" alt="Introduction to Cybersecurity"
          style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   </a>

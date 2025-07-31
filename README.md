@@ -7,7 +7,7 @@
       <h3>🚀 About me</h3>
       <ul>
         <li>🌐 My web space: <a href="https://4drian0rtiz.github.io">https://4drian0rtiz.github.io</a></li>
-        <li>📝 I write on my blog: <a href="https://neandertech.netlify.app/blog">The NeanderTech Cave</a></li>
+        <li>📝 I write on my blog: <a href="https://cuevaneander.tech/blog">La Cueva del NeanderTech</a></li>
         <li>📫 Contact: <b>arguortiz@icloud.com</b></li>
         <li>⚡ Fun fact: I consider myself <b>funny</b>.</li>
         <li>🐧 Linux and Open Source enthusiast.</li>

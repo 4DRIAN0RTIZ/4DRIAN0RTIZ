@@ -109,5 +109,9 @@
     <img src="https://github.com/user-attachments/assets/12afc83f-4f20-4c62-ae57-e31b7755883d" alt="Clase de Introducción a R"
          style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   </a>
+  <a href="https://github.com/user-attachments/assets/4610b9f3-52f8-446b-a658-310157246843" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4610b9f3-52f8-446b-a658-310157246843" alt="Clase de Introducción a R"
+         style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  
 </div>
-

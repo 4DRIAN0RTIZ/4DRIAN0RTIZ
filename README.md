@@ -113,5 +113,10 @@
     <img src="https://github.com/user-attachments/assets/4610b9f3-52f8-446b-a658-310157246843" alt="Clase de Introducción a R"
          style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   </a>
+    <a href="https://github.com/user-attachments/assets/4610b9f3-52f8-446b-a658-310157246843" target="_blank">
+    <img src="https://github.com/user-attachments/assets/cb297bf1-6640-4514-b70a-b3e1fb15ddbe" alt="Palo Alto"
+         style="width: 250px; height: 180px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
   
 </div>
+

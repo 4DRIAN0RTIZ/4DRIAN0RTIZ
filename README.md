@@ -65,14 +65,8 @@
 
 ---
 
-### 🌐 Find me on
+### 🏆 Showcase
 
-<p align="center">
-  <a href="https://codepen.io/4drian0rtiz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="40" height="40"/></a>
-  <a href="https://www.youtube.com/channel/UCA-bVAv5yTJcgDdzcXoAz9Q" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/></a>
-</p>
-
-<h3>🏆 Showcase</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
 
 <a href="https://www.credly.com/badges/14c5a6f6-1b44-4d5c-a696-2a7c94335ae8/public_url">
@@ -119,4 +113,5 @@
   </a>
   
 </div>
+
 

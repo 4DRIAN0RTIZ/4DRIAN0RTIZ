@@ -63,6 +63,8 @@
   </a>
 </p>
 
+![GitHub Contributions](https://ghcard.cuevaneander.tech/card.svg?username=4drian0rtiz&theme=TokyoNight&per_page=100&page=1)
+
 ---
 
 ### 🏆 Showcase

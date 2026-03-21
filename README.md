@@ -132,7 +132,7 @@ interests = [
 </td>
 <td width="50%">
 
-**`🅿️ BOTON (CDS Parking)`** — Módulo IAM/Users en NestJS con arquitectura hexagonal, Prisma, MariaDB y Redis.
+**`🅿️ Parking App`** — Módulo IAM/Users en NestJS con arquitectura hexagonal, Prisma, MariaDB y Redis.
 
 </td>
 </tr>

@@ -24,16 +24,16 @@
 ```bash
 adrian@neander:~$ cat about.txt
 
-  Name     : Adrián Ortiz Bustos
-  Role     : Full Stack Developer
+  Name: Adrián Ortiz Bustos
+  Role: Full Stack Developer
   Location : Guadalajara, Jalisco 🇲🇽
-  Degree   : Software Engineering & Mgmt
+  Degree: Software Engineering & Mgmt
              @ Universidad Tecnológica de Jalisco
-  Blog     : La Cueva del NeanderTech 🦴
-  Readers  : Cibernícolas 📡
-  Editor   : Neovim (btw)
-  OS       : Manjaro/Arch Linux
-  Status   : Freelancing & building 🔨
+  Blog: La Cueva del NeanderTech 🦴
+  Readers: Cibernícolas 📡
+  Editor: Neovim (btw)
+  OS: Manjaro/Arch Linux
+  Status: Freelancing & building 🔨
 ```
 
 ```python

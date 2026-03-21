@@ -121,37 +121,6 @@ interests = [
 
 ---
 
-### 🦴 Actualmente construyendo
-
-<table>
-<tr>
-<td width="50%">
-
-**`🎙️ UrbanTV`** — Plataforma de freestyle battles con votación gamificada, streaming y sistema de XP. Laravel 11 + WebSockets + Vue.
-
-</td>
-<td width="50%">
-
-**`🅿️ Parking App`** — Módulo IAM/Users en NestJS con arquitectura hexagonal, Prisma, MariaDB y Redis.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**`🦴 La Cueva del NeanderTech`** — Blog técnico donde escribo sobre Linux, AI, Open Source y el caos del dev freelance.
-
-</td>
-<td width="50%">
-
-**`🏠 Home Lab`** — Infraestructura self-hosted con Docker/Traefik, Cloudflare Zero Trust, n8n, Grafana, Vaultwarden y más.
-
-</td>
-</tr>
-</table>
-
----
-
 ### 📊 Estadísticas
 
 <div align="center">

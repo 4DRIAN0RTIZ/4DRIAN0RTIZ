@@ -50,7 +50,9 @@ interests = [
 </td>
 <td width="45%" align="center">
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Developer GIF" width="100%"/>
+<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Developer GIF" width="100%"/> -->
+![Programmer_GIF_Generation1-ezgif com-crop](https://github.com/user-attachments/assets/02781703-25ba-4775-a66a-7e00691398ac)
+
 
 <br/>
 

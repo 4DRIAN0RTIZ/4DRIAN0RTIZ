@@ -52,7 +52,9 @@ interests = [
 
 <!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Developer GIF" width="100%"/> -->
 <!--![output-onlinegiftools](https://github.com/user-attachments/assets/15eba51a-f928-4ab9-a765-22551675a652) -->
-![output-onlinegiftools-ezgif com-rotate](https://github.com/user-attachments/assets/699efa6d-23ff-412d-86ed-060e1fd19b26)
+<!--![output-onlinegiftools-ezgif com-rotate](https://github.com/user-attachments/assets/699efa6d-23ff-412d-86ed-060e1fd19b26)-->
+![output-onlinegiftools-ezgif com-cut](https://github.com/user-attachments/assets/706c80f6-22d9-4882-8d05-15a7870f154e)
+
 
 
 

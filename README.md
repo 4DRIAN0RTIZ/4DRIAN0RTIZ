@@ -33,7 +33,7 @@ adrian@neander:~$ cat about.txt
   Readers: Cibernícolas 📡
   Editor: Neovim (btw)
   OS: Manjaro/Arch Linux
-  Status: Freelancing & building 🔨
+  Status: Master Development ING on [ditra](https://ditra.mx/) 💼
 ```
 
 ```python

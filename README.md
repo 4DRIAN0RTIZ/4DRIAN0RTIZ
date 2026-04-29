@@ -109,6 +109,8 @@ interests = [
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=F05032)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0a0a0a?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![Arch](https://img.shields.io/badge/Arch_Linux-0a0a0a?style=flat-square&logo=archlinux&logoColor=1793D1)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0a?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Ansible](https://img.shields.io/badge/Ansible-0a0a0a?style=flat-square&logo=ansible&logoColor=EE0000)
 
 </td>
 <td align="center" width="25%">

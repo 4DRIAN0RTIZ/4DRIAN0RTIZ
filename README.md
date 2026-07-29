@@ -47,6 +47,8 @@ interests = [
 ]
 ```
 
+<img src="https://readmeme.eu.cc/api/time.svg?timezone=America/Mexico_City&timeFormat=24h&showSeconds=1&showDate=0&showDay=1&label=Guadalajara&theme=terminal" alt="Local time" />
+
 </td>
 <td width="45%" align="center" valign="top">
 
@@ -56,7 +58,7 @@ interests = [
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://developer.cuevaneander.tech)
 [![Blog](https://img.shields.io/badge/La_Cueva_del_NeanderTech-0a0a0a?style=for-the-badge&logo=ghost&logoColor=39FF14)](https://cuevaneander.tech/blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/4drian0rtiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/4drian0rtiz/)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=microsoftoutlook&logoColor=39FF14)](mailto:adrian.ortiz.bustos@hotmail.com)
 
 <br/>
@@ -66,7 +68,6 @@ interests = [
 
 <br/>
 
-<img src="https://readmeme.eu.cc/api/time.svg?timezone=America/Mexico_City&timeFormat=24h&showSeconds=1&showDate=0&showDay=1&label=Guadalajara&theme=terminal" alt="Local time" />
 <img src="https://readmeme.eu.cc/api/quote.svg?quoteCategory=programming&label=Quote+of+the+day&theme=terminal" alt="Daily quote" />
 
 </td>
@@ -75,7 +76,7 @@ interests = [
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Featured Projects
 
 <table>
 <tr>
@@ -85,7 +86,7 @@ interests = [
 <br/>
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB)
 <br/>
-Envía correos electrónicos desde la terminal usando Neovim.
+Send emails from the terminal using Neovim.
 
 </td>
 <td width="33%">
@@ -94,7 +95,7 @@ Envía correos electrónicos desde la terminal usando Neovim.
 <br/>
 ![Shell](https://img.shields.io/badge/Shell-0a0a0a?style=flat-square&logo=gnubash&logoColor=4EAA25)
 <br/>
-Framework simple para exponer APIs REST en Bash.
+Simple framework to expose REST APIs in Bash.
 
 </td>
 <td width="33%">
@@ -103,7 +104,7 @@ Framework simple para exponer APIs REST en Bash.
 <br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 <br/>
-Lab self-hosted en navegador para correr herramientas reales de procesamiento de texto.
+Self-hosted browser-based lab for running real text-processing tools.
 
 </td>
 </tr>
@@ -111,7 +112,7 @@ Lab self-hosted en navegador para correr herramientas reales de procesamiento de
 
 ---
 
-### 📝 Últimos posts de La Cueva del NeanderTech
+### 📝 Latest posts from La Cueva del NeanderTech
 
 <!-- BLOG-POST-LIST:START -->
 - [HTTP QUERY: el método que tardó 2 décadas en llegar](https://cuevaneander.tech/blog/http-query-el-metodo-que-tardo-2-decadas-en-llegar)
@@ -123,7 +124,7 @@ Lab self-hosted en navegador para correr herramientas reales de procesamiento de
 
 ---
 
-### ⚙️ Stack actual
+### ⚙️ Current Stack
 
 ![Currently learning](https://img.shields.io/badge/Currently_learning-MCP_%26_AI_Automation-0a0a0a?style=flat-square&logoColor=39FF14)
 
@@ -169,7 +170,7 @@ Lab self-hosted en navegador para correr herramientas reales de procesamiento de
 </td>
 <td align="center" width="25%">
 
-**Datos & AI**
+**Data & AI**
 <br/><br/>
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0a0a0a?style=flat-square&logo=mariadb&logoColor=003545)
@@ -184,7 +185,7 @@ Lab self-hosted en navegador para correr herramientas reales de procesamiento de
 
 ---
 
-### 📊 Estadísticas
+### 📊 Statistics
 
 <div align="center">
 
@@ -195,7 +196,7 @@ Lab self-hosted en navegador para correr herramientas reales de procesamiento de
 <br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4DRIAN0RTIZ&custom_title=Actividad%20en%20GitHub%20%7C%204DRIAN0RTIZ&hide_border=true&theme=merko" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4DRIAN0RTIZ&custom_title=GitHub%20Activity%20%7C%204DRIAN0RTIZ&hide_border=true&theme=merko" alt="Activity Graph" width="100%"/>
 </a>
 
 ![GitHub Contributions](https://ghcard.cuevaneander.tech/card.svg?username=4drian0rtiz&theme=TokyoNight&per_page=100&page=1)
@@ -204,7 +205,7 @@ Lab self-hosted en navegador para correr herramientas reales de procesamiento de
 
 ---
 
-### 🏆 Certificados & Logros
+### 🏆 Certifications & Achievements
 
 <div align="center">
 
@@ -233,9 +234,9 @@ Lab self-hosted en navegador para correr herramientas reales de procesamiento de
 </td>
 <td align="center">
   <a href="https://github.com/user-attachments/assets/3c6ba9f1-82dc-4cff-be49-aa409e1005e3" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3c6ba9f1-82dc-4cff-be49-aa409e1005e3" width="200" style="border-radius:8px;" alt="ICP Developer ICP México"/>
+    <img src="https://github.com/user-attachments/assets/3c6ba9f1-82dc-4cff-be49-aa409e1005e3" width="200" style="border-radius:8px;" alt="ICP Developer Mexico"/>
   </a>
-  <br/><sub><b>ICP Developer México</b></sub>
+  <br/><sub><b>ICP Developer Mexico</b></sub>
 </td>
 <td align="center">
   <a href="https://github.com/user-attachments/assets/784121ef-8605-450a-adeb-6f9b09055f6f" target="_blank">
@@ -247,21 +248,21 @@ Lab self-hosted en navegador para correr herramientas reales de procesamiento de
 <tr>
 <td align="center">
   <a href="https://github.com/user-attachments/assets/36a4478e-a00e-4d04-a1e7-ba346894da5e" target="_blank">
-    <img src="https://github.com/user-attachments/assets/36a4478e-a00e-4d04-a1e7-ba346894da5e" width="200" style="border-radius:8px;" alt="Curso Profesional de JavaScript"/>
+    <img src="https://github.com/user-attachments/assets/36a4478e-a00e-4d04-a1e7-ba346894da5e" width="200" style="border-radius:8px;" alt="Professional JavaScript Course"/>
   </a>
-  <br/><sub><b>JS Profesional</b></sub>
+  <br/><sub><b>Professional JS</b></sub>
 </td>
 <td align="center">
   <a href="https://github.com/user-attachments/assets/12afc83f-4f20-4c62-ae57-e31b7755883d" target="_blank">
-    <img src="https://github.com/user-attachments/assets/12afc83f-4f20-4c62-ae57-e31b7755883d" width="200" style="border-radius:8px;" alt="Introducción a R"/>
+    <img src="https://github.com/user-attachments/assets/12afc83f-4f20-4c62-ae57-e31b7755883d" width="200" style="border-radius:8px;" alt="Introduction to R"/>
   </a>
-  <br/><sub><b>Introducción a R</b></sub>
+  <br/><sub><b>Introduction to R</b></sub>
 </td>
 <td align="center">
   <a href="https://github.com/user-attachments/assets/4610b9f3-52f8-446b-a658-310157246843" target="_blank">
     <img src="https://github.com/user-attachments/assets/4610b9f3-52f8-446b-a658-310157246843" width="200" style="border-radius:8px;" alt="Cert 7"/>
   </a>
-  <br/><sub><b>Certificación</b></sub>
+  <br/><sub><b>Certification</b></sub>
 </td>
 <td align="center">
   <a href="https://github.com/user-attachments/assets/cb297bf1-6640-4514-b70a-b3e1fb15ddbe" target="_blank">
@@ -280,12 +281,12 @@ Lab self-hosted en navegador para correr herramientas reales de procesamiento de
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  "Automatiza lo aburrido. Construye lo interesante." ║
+║   "Automate the boring. Build the interesting."      ║
 ║                              — 4DRIAN0RTIZ           ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-[![Visitas](https://komarev.com/ghpvc/?username=4DRIAN0RTIZ&color=39FF14&style=flat-square&label=Cibernícolas+que+pasaron+por+aquí)](https://github.com/4DRIAN0RTIZ)
+[![Visits](https://komarev.com/ghpvc/?username=4DRIAN0RTIZ&color=39FF14&style=flat-square&label=Cibern%C3%ADcolas+who+stopped+by)](https://github.com/4DRIAN0RTIZ)
 
 </div>
 

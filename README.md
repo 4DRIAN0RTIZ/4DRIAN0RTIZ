@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- ███╗   ██╗███████╗ █████╗ ███╗   ██╗██████╗ ███████╗██████╗ ████████╗███████╗ ██████╗██╗  ██╗
- ████╗  ██║██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔════╝██╔════╝██║  ██║
- ██╔██╗ ██║█████╗  ███████║██╔██╗ ██║██║  ██║█████╗  ██████╔╝   ██║   █████╗  ██║     ███████║
- ██║╚██╗██║██╔══╝  ██╔══██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗   ██║   ██╔══╝  ██║     ██╔══██║
- ██║ ╚████║███████╗██║  ██║██║ ╚████║██████╔╝███████╗██║  ██║   ██║   ███████╗╚██████╗██║  ██║
- ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0d1f0d&height=160&section=header&text=4DRIAN0RTIZ&fontColor=39FF14&fontAlignY=28&fontSize=100&desc=Software%20And%20Management%20Engineer&descAlignY=58&descColor=7c8f7c&descSize=16" width="100%" alt="Header banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%A6%8D;Linux+%26+Open+Source+Enthusiast+%F0%9F%90%A7;AI+%26+Automation+Tinkerer+%F0%9F%A4%96;Founder+of+La+Cueva+del+NeanderTech+%F0%9F%A6%B4" alt="Typing SVG" />
 
@@ -50,20 +43,24 @@ interests = [
 </td>
 <td width="45%" align="center">
 
-<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Developer GIF" width="100%"/> -->
-<!--![output-onlinegiftools](https://github.com/user-attachments/assets/15eba51a-f928-4ab9-a765-22551675a652) -->
-<!--![output-onlinegiftools-ezgif com-rotate](https://github.com/user-attachments/assets/699efa6d-23ff-412d-86ed-060e1fd19b26)-->
 ![output-onlinegiftools-ezgif com-cut](https://github.com/user-attachments/assets/706c80f6-22d9-4882-8d05-15a7870f154e)
-
-
-
-
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://developer.cuevaneander.tech)
 [![Blog](https://img.shields.io/badge/La_Cueva_del_NeanderTech-0a0a0a?style=for-the-badge&logo=ghost&logoColor=39FF14)](https://cuevaneander.tech/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/4drian0rtiz)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=microsoftoutlook&logoColor=39FF14)](mailto:adrian.ortiz.bustos@hotmail.com)
+
+<br/>
+
+![Status](https://img.shields.io/badge/Building_@_Ditra_%2B_Freelance-0a0a0a?style=for-the-badge&logoColor=39FF14)
+![Open to collab](https://img.shields.io/badge/Open_to_collab_%26_freelance-0a0a0a?style=for-the-badge&logoColor=39FF14)
+
+<br/>
+
+<img src="https://readmeme.eu.cc/api/time.svg?timezone=America/Mexico_City&timeFormat=24h&showSeconds=1&showDate=0&showDay=1&label=Guadalajara&theme=terminal" alt="Local time" />
+<img src="https://readmeme.eu.cc/api/quote.svg?quoteCategory=programming&label=Quote+of+the+day&theme=terminal" alt="Daily quote" />
 
 </td>
 </tr>
@@ -71,7 +68,52 @@ interests = [
 
 ---
 
+### 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="33%">
+
+**[NeoComposer](https://github.com/4DRIAN0RTIZ/NeoComposer)**
+<br/>
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB)
+<br/>
+Envía correos electrónicos desde la terminal usando Neovim.
+
+</td>
+<td width="33%">
+
+**[ShellRest](https://github.com/4DRIAN0RTIZ/ShellRest)**
+<br/>
+![Shell](https://img.shields.io/badge/Shell-0a0a0a?style=flat-square&logo=gnubash&logoColor=4EAA25)
+<br/>
+Framework simple para exponer APIs REST en Bash.
+
+</td>
+<td width="33%">
+
+**[Flintbox](https://github.com/4DRIAN0RTIZ/flintbox)**
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+<br/>
+Lab self-hosted en navegador para correr herramientas reales de procesamiento de texto.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📝 Últimos posts de La Cueva del NeanderTech
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### ⚙️ Stack actual
+
+![Currently learning](https://img.shields.io/badge/Currently_learning-MCP_%26_AI_Automation-0a0a0a?style=flat-square&logoColor=39FF14)
 
 <table>
 <tr>
@@ -134,8 +176,9 @@ interests = [
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4DRIAN0RTIZ&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4DRIAN0RTIZ&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="Top Langs" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=4DRIAN0RTIZ&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=4DRIAN0RTIZ&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="Top Langs" height="165"/>
+<img src="https://streak-stats.demolab.com?user=4DRIAN0RTIZ&theme=merko&hide_border=false" alt="Streak Stats" height="165"/>
 
 <br/>
 
@@ -149,7 +192,7 @@ interests = [
 
 ---
 
-### 🏆 Certificaciones & Logros
+### 🏆 Certificados & Logros
 
 <div align="center">
 
@@ -233,3 +276,5 @@ interests = [
 [![Visitas](https://komarev.com/ghpvc/?username=4DRIAN0RTIZ&color=39FF14&style=flat-square&label=Cibernícolas+que+pasaron+por+aquí)](https://github.com/4DRIAN0RTIZ)
 
 </div>
+
+

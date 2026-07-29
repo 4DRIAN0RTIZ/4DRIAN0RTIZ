@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0d1f0d&height=160&section=header&text=4DRIAN0RTIZ&fontColor=39FF14&fontAlignY=28&fontSize=100&desc=Software%20And%20Management%20Engineer&descAlignY=58&descColor=7c8f7c&descSize=16" width="100%" alt="Header banner" />
+```
+ ███╗   ██╗███████╗ █████╗ ███╗   ██╗██████╗ ███████╗██████╗ ████████╗███████╗ ██████╗██╗  ██╗
+ ████╗  ██║██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔════╝██╔════╝██║  ██║
+ ██╔██╗ ██║█████╗  ███████║██╔██╗ ██║██║  ██║█████╗  ██████╔╝   ██║   █████╗  ██║     ███████║
+ ██║╚██╗██║██╔══╝  ██╔══██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗   ██║   ██╔══╝  ██║     ██╔══██║
+ ██║ ╚████║███████╗██║  ██║██║ ╚████║██████╔╝███████╗██║  ██║   ██║   ███████╗╚██████╗██║  ██║
+ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%A6%8D;Linux+%26+Open+Source+Enthusiast+%F0%9F%90%A7;AI+%26+Automation+Tinkerer+%F0%9F%A4%96;Founder+of+La+Cueva+del+NeanderTech+%F0%9F%A6%B4" alt="Typing SVG" />
 

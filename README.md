@@ -114,6 +114,11 @@ Lab self-hosted en navegador para correr herramientas reales de procesamiento de
 ### 📝 Últimos posts de La Cueva del NeanderTech
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP QUERY: el método que tardó 2 décadas en llegar](https://cuevaneander.tech/blog/http-query-el-metodo-que-tardo-2-decadas-en-llegar)
+- [Soberanía digital: migrando de Bitwarden a KeePassXC con USB cifrada](https://cuevaneander.tech/blog/soberania-digital-migrando-de-bitwarden-a-keepassxc-con-usb-cifrada)
+- [FlintBox: Mi Laboratorio Selfhosted](https://cuevaneander.tech/blog/flintbox-mi-laboratorio-selfhosted)
+- [autoCover: Genera las Portadas de tu Blog desde la Terminal](https://cuevaneander.tech/blog/autocover-genera-portadas-de-blog-desde-la-terminal)
+- [morph.nvim: React-like renderer para Neovim](https://cuevaneander.tech/blog/morph-nvim-react-like-renderer-para-neovim)
 <!-- BLOG-POST-LIST:END -->
 
 ---

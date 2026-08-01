@@ -276,6 +276,31 @@ Self-hosted browser-based lab for running real text-processing tools.
   </a>
   <br/><sub><b>IA LATAM</b></sub>
 </td>
+
+<td align="center">
+  <a href="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" target="_blank">
+    
+<img width="1650" height="1275" alt="ai_essentials_google" src="https://github.com/user-attachments/assets/b8b80e40-b41f-42f6-a717-6b0b12f911f4" />
+
+  </a>
+  <br/><sub><b>IA LATAM</b></sub>
+</td>
+
+<td align="center">
+  <a href="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" target="_blank">
+    <img width="802" height="529" alt="Fortane_desarrolloLideres_2026" src="https://github.com/user-attachments/assets/14002a60-8b25-4c35-9b6e-a66b29232e15" />
+
+  </a>
+  <br/><sub><b>IA LATAM</b></sub>
+</td>
+
+<td align="center">
+  <a href="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" target="_blank">
+    <img width="848" height="547" alt="WhiteBelt_entrega_2024" src="https://github.com/user-attachments/assets/426ea553-f7e0-46ba-a3ab-47b05d3b8ebd" />
+  </a>
+  <br/><sub><b>IA LATAM</b></sub>
+</td>
+ 
 </tr>
 </table>
 

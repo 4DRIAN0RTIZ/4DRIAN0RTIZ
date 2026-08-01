@@ -270,12 +270,6 @@ Self-hosted browser-based lab for running real text-processing tools.
   </a>
   <br/><sub><b>Palo Alto</b></sub>
 </td>
-<td align="center">
-  <a href="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" target="_blank">
-    <img src="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" width="200" style="border-radius:8px;" alt="IA LATAM"/>
-  </a>
-  <br/><sub><b>IA LATAM</b></sub>
-</td>
 </tr>
 <tr>
 <td align="center">
@@ -295,6 +289,12 @@ Self-hosted browser-based lab for running real text-processing tools.
     <img src="https://github.com/user-attachments/assets/426ea553-f7e0-46ba-a3ab-47b05d3b8ebd" width="200" style="border-radius:8px;" alt="White Belt"/>
   </a>
   <br/><sub><b>White Belt</b></sub>
+</td>
+<td align="center">
+  <a href="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" target="_blank">
+    <img src="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" width="200" style="border-radius:8px;" alt="IA LATAM"/>
+  </a>
+  <br/><sub><b>IA LATAM</b></sub>
 </td>
 </tr>
 </table>

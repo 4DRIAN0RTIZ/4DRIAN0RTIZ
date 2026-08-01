@@ -270,9 +270,9 @@ Self-hosted browser-based lab for running real text-processing tools.
   </a>
   <br/><sub><b>Palo Alto</b></sub>
 </td>
- <td align="center">
+<td align="center">
   <a href="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" target="_blank">
-   <img alt="ia_latam_congreso" src="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" />
+    <img src="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" width="200" style="border-radius:8px;" alt="IA LATAM"/>
   </a>
   <br/><sub><b>IA LATAM</b></sub>
 </td>

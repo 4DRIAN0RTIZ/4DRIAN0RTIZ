@@ -262,13 +262,19 @@ Self-hosted browser-based lab for running real text-processing tools.
   <a href="https://github.com/user-attachments/assets/4610b9f3-52f8-446b-a658-310157246843" target="_blank">
     <img src="https://github.com/user-attachments/assets/4610b9f3-52f8-446b-a658-310157246843" width="200" style="border-radius:8px;" alt="Cert 7"/>
   </a>
-  <br/><sub><b>Certification</b></sub>
+  <br/><sub><b>React Professional</b></sub>
 </td>
 <td align="center">
   <a href="https://github.com/user-attachments/assets/cb297bf1-6640-4514-b70a-b3e1fb15ddbe" target="_blank">
     <img src="https://github.com/user-attachments/assets/cb297bf1-6640-4514-b70a-b3e1fb15ddbe" width="200" style="border-radius:8px;" alt="Palo Alto"/>
   </a>
   <br/><sub><b>Palo Alto</b></sub>
+</td>
+ <td align="center">
+  <a href="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" target="_blank">
+   <img alt="ia_latam_congreso" src="https://github.com/user-attachments/assets/b463e368-2b86-40e2-aa6d-af8d14f6961b" />
+  </a>
+  <br/><sub><b>IA LATAM</b></sub>
 </td>
 </tr>
 </table>

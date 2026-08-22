@@ -115,11 +115,11 @@ Self-hosted browser-based lab for running real text-processing tools.
 ### 📝 Latest posts from La Cueva del NeanderTech
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenWiki: la documentación que se mantiene sola](https://cuevaneander.tech/blog/openwiki-documentacion-que-se-mantiene-sola)
 - [Auth bypass: así entró un minero a mi servidor](https://cuevaneander.tech/blog/auth-bypass-asi-entro-un-minero-a-mi-servidor)
 - [herdr: probando el reemplazo de tmux pensado para agentes de IA](https://cuevaneander.tech/blog/herdr-probando-el-reemplazo-de-tmux-pensado-para-agentes-de-ia)
 - [HTTP QUERY: el método que tardó 2 décadas en llegar](https://cuevaneander.tech/blog/http-query-el-metodo-que-tardo-2-decadas-en-llegar)
 - [Soberanía digital: migrando de Bitwarden a KeePassXC con USB cifrada](https://cuevaneander.tech/blog/soberania-digital-migrando-de-bitwarden-a-keepassxc-con-usb-cifrada)
-- [FlintBox: Mi Laboratorio Selfhosted](https://cuevaneander.tech/blog/flintbox-mi-laboratorio-selfhosted)
 <!-- BLOG-POST-LIST:END -->
 
 ---

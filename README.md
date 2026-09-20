@@ -115,11 +115,11 @@ Self-hosted browser-based lab for running real text-processing tools.
 ### 📝 Latest posts from La Cueva del NeanderTech
 
 <!-- BLOG-POST-LIST:START -->
+- [HTMX + Pico CSS: declaración de guerra al frontend actual](https://cuevaneander.tech/blog/htmx-pico-css-declaracion-de-guerra-al-frontend-actual)
 - [Reto Semanal: cada semana hay un ganador, y podrías ser tú](https://cuevaneander.tech/blog/reto-semanal-cada-semana-hay-un-ganador-y-podrias-ser-tu)
 - [SemVer: el versionado que nadie lee hasta que te rompe todo](https://cuevaneander.tech/blog/semver-el-versionado-que-nadie-lee-hasta-que-te-rompe-todo)
 - [Hermes Agent: 7 dolares por nada](https://cuevaneander.tech/blog/hermes-agent-7-dolares-por-nada)
 - [OpenWiki: la documentación que se mantiene sola](https://cuevaneander.tech/blog/openwiki-documentacion-que-se-mantiene-sola)
-- [Auth bypass: así entró un minero a mi servidor](https://cuevaneander.tech/blog/auth-bypass-asi-entro-un-minero-a-mi-servidor)
 <!-- BLOG-POST-LIST:END -->
 
 ---

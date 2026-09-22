@@ -118,8 +118,8 @@ Self-hosted browser-based lab for running real text-processing tools.
 - [HTMX + Pico CSS: declaración de guerra al frontend actual](https://cuevaneander.tech/blog/htmx-pico-css-declaracion-de-guerra-al-frontend-actual)
 - [Reto Semanal: cada semana hay un ganador, y podrías ser tú](https://cuevaneander.tech/blog/reto-semanal-cada-semana-hay-un-ganador-y-podrias-ser-tu)
 - [SemVer: el versionado que nadie lee hasta que te rompe todo](https://cuevaneander.tech/blog/semver-el-versionado-que-nadie-lee-hasta-que-te-rompe-todo)
+- [Por qué las pruebas de software son clave para el éxito tecnológico](https://cuevaneander.tech/blog/importancia-pruebas-software)
 - [Hermes Agent: 7 dolares por nada](https://cuevaneander.tech/blog/hermes-agent-7-dolares-por-nada)
-- [OpenWiki: la documentación que se mantiene sola](https://cuevaneander.tech/blog/openwiki-documentacion-que-se-mantiene-sola)
 <!-- BLOG-POST-LIST:END -->
 
 ---

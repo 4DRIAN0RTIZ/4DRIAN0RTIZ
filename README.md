@@ -115,11 +115,11 @@ Self-hosted browser-based lab for running real text-processing tools.
 ### 📝 Latest posts from La Cueva del NeanderTech
 
 <!-- BLOG-POST-LIST:START -->
+- [JEV: un modelo que no chatea, decide](https://cuevaneander.tech/blog/jev-un-modelo-que-no-chatea-decide)
 - [Echo Dot: mi servidor atiende por la bocina](https://cuevaneander.tech/blog/echo-dot-mi-servidor-atiende-por-la-bocina)
 - [Pi Agent: de extensiones sueltas a un harness predecible en un fin de semana](https://cuevaneander.tech/blog/pi-agent-de-extensiones-sueltas-a-un-harness-predecible-en-un-fin-de-semana)
 - [La clave de la cueva: WiFi de invitados que caduca sola](https://cuevaneander.tech/blog/la-clave-de-la-cueva-wifi-de-invitados-que-caduca-sola)
 - [HTMX + Pico CSS: declaración de guerra al frontend actual](https://cuevaneander.tech/blog/htmx-pico-css-declaracion-de-guerra-al-frontend-actual)
-- [Reto Semanal: cada semana hay un ganador, y podrías ser tú](https://cuevaneander.tech/blog/reto-semanal-cada-semana-hay-un-ganador-y-podrias-ser-tu)
 <!-- BLOG-POST-LIST:END -->
 
 ---

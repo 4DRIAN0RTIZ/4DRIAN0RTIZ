@@ -53,7 +53,7 @@ interests = [
 <td width="45%" align="center" valign="top">
 
 <!-- ![output-onlinegiftools-ezgif com-cut](https://github.com/user-attachments/assets/706c80f6-22d9-4882-8d05-15a7870f154e) -->
-![banner](assets/banner.gif)
+![banner](assets/bg.gif)
 
 <br/>
 

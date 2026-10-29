@@ -81,7 +81,7 @@ interests = [
 
 <table>
 <tr>
-<td width="33%">
+<td width="25%">
 
 **[NeoComposer](https://github.com/4DRIAN0RTIZ/NeoComposer)**
 <br/>
@@ -90,7 +90,7 @@ interests = [
 Send emails from the terminal using Neovim.
 
 </td>
-<td width="33%">
+<td width="25%">
 
 **[ShellRest](https://github.com/4DRIAN0RTIZ/ShellRest)**
 <br/>
@@ -99,13 +99,22 @@ Send emails from the terminal using Neovim.
 Simple framework to expose REST APIs in Bash.
 
 </td>
-<td width="33%">
+<td width="25%">
 
 **[Flintbox](https://github.com/4DRIAN0RTIZ/flintbox)**
 <br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 <br/>
 Self-hosted browser-based lab for running real text-processing tools.
+
+</td>
+<td width="25%">
+
+**[Hueman](https://github.com/NeanderTeam/hueman)**
+<br/>
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3776AB)
+<br/>
+Generate app configs from a YAML palette using Jinja2 templates.
 
 </td>
 </tr>

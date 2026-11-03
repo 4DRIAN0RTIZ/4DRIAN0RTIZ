@@ -125,11 +125,11 @@ Generate app configs from a YAML palette using Jinja2 templates.
 ### 📝 Latest posts from La Cueva del NeanderTech
 
 <!-- BLOG-POST-LIST:START -->
+- [Terminal Browser: le puse ojos a mi agente](https://cuevaneander.tech/blog/terminal-browser-le-puse-ojos-a-mi-agente)
 - [JEV: un modelo que no chatea, decide](https://cuevaneander.tech/blog/jev-un-modelo-que-no-chatea-decide)
 - [Echo Dot: mi servidor atiende por la bocina](https://cuevaneander.tech/blog/echo-dot-mi-servidor-atiende-por-la-bocina)
 - [Pi Agent: de extensiones sueltas a un harness predecible en un fin de semana](https://cuevaneander.tech/blog/pi-agent-de-extensiones-sueltas-a-un-harness-predecible-en-un-fin-de-semana)
 - [La clave de la cueva: WiFi de invitados que caduca sola](https://cuevaneander.tech/blog/la-clave-de-la-cueva-wifi-de-invitados-que-caduca-sola)
-- [HTMX + Pico CSS: declaración de guerra al frontend actual](https://cuevaneander.tech/blog/htmx-pico-css-declaracion-de-guerra-al-frontend-actual)
 <!-- BLOG-POST-LIST:END -->
 
 ---
